@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <ns3:Placemark>
+        <ns3:name>London, UK</ns3:name>
+        <ns3:open>1</ns3:open>
+        <ns3:Point>
+            <ns3:coordinates>-0.126236,51.500152,6666</ns3:coordinates>
+        </ns3:Point>
+    </ns3:Placemark>
+</ns3:kml>
