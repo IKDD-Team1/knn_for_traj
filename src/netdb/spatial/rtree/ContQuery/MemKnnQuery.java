@@ -10,6 +10,7 @@ import netdb.spatial.rtree.spatialindex.Region;
 import netdb.spatial.rtree.storagemanger.*;
 import de.micromata.opengis.kml.v_2_2_0.*;
 
+
 public class MemKnnQuery
 {
 	private ISpatialIndex tree;
